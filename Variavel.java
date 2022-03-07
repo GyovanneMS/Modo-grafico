@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane; 
 
-class Variavel {
+class Variavell {
     public static void main(String args []) {
         JOptionPane jop = new JOptionPane();
 

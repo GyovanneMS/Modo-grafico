@@ -14,7 +14,7 @@ class Contas {
         double R1 = Math.sqrt(N1);
         double R2 = Math.sqrt(N2);
 
-        jop.showMessageDialog(null, "A primeira exponenciação é " +  P1 + ".\n A segunda exponenciação é " + P2 + ".\n O resultado da divisão é " + D + " e o resto é " + Re + ".\n A primeira raiz é igual a " + R1 + ".\n A segunda raiz é " + R2 + ",");
+        jop.showMessageDialog(null, "A primeira exponenciação é " +  P1 + ".\n A segunda exponenciação é " + P2 + ".\n O resultado da divisão é " + D + " e o resto é " + Re + ".\n A primeira raiz é igual a " + R1 + ".\n A segunda raiz é " + R2 + ".");
 
 
         

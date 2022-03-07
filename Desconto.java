@@ -7,7 +7,7 @@ class Desconto {
         JOptionPane jop = new JOptionPane();
 
         double Vcompra = Double.parseDouble(jop.showInputDialog(null, "Valor da compra:"));
-        int Desconto =   Double.parseDouble(jop.showInputDialog(null, "Valor do desconto:"));
+        int Desconto = Double.parseDouble(jop.showInputDialog(null, "Valor do desconto:"));
 
         double Dcompra = Vcompra / Desconto;
         double Vfinal = Vcompra - Dcompra;
