@@ -9,7 +9,7 @@ class Contas {
 
         double P1 = Math.pow(N1,5);
         double P2 = Math.pow(N2,5);
-        double D  = N1 / N2 ;
+        int D  = N1 / N2 ;
         double Re = N1 % N2 ;
         double R1 = Math.sqrt(N1);
         double R2 = Math.sqrt(N2);
