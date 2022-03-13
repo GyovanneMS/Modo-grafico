@@ -5,7 +5,7 @@ class Contas {
         JOptionPane jop = new JOptionPane();
 
         int N1 = Integer.parseInt(jop.showInputDialog( null, "Primeiro número"));
-        int N2 = Integer.parseInt(jop.showInputDialog( null, "Primeiro número"));
+        int N2 = Integer.parseInt(jop.showInputDialog( null, "Segundo número"));
 
         double P1 = Math.pow(N1,5);
         double P2 = Math.pow(N2,5);
