@@ -14,6 +14,6 @@ class Variavell {
         N2 = N3;
 
         
-        jop.showMessageDialog(null, "Agora o primeiro número é: " + N1 + ", e o sgndo é: " + N2);
+        jop.showMessageDialog(null, "Agora o primeiro número é: " + N1 + ", e o segundo é: " + N2);
     }
 }
