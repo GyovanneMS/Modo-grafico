@@ -10,7 +10,7 @@ class Desconto {
         double Dcompra = Vcompra / Desconto;
         double Vfinal = Vcompra - Dcompra;
 
-        jop.showMessageDialog(null, "O falor final da compra é: " + Vfinal);
+        jop.showMessageDialog(null, "O valor final da compra é: " + Vfinal);
     }
     
 }
